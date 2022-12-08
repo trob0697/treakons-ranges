@@ -1,0 +1,67 @@
+body{
+    background: #121212 !important;
+}
+
+.header{
+    text-align: center;
+    color: white;
+    padding-bottom: 0.25em;
+}
+
+.btn-inactive{
+    pointer-events: none;
+}
+
+.preflop-charts-btns-container{
+    text-align: center;
+}
+
+.header-btn-spacing{
+    margin: 1.5vh;
+}
+
+.btn-group-spacing{
+    margin-bottom: 1vh;
+}
+
+.villain-btn-group{
+    -webkit-box-shadow: 0px 0px 0.25vw 0px rgba(214,3,3,0.9);
+    -moz-box-shadow: 0px 0px 0.25vw 0px rgba(214,3,3,0.9);
+    box-shadow: 0px 0px 0.25vw 0px rgba(214,3,3,0.9);
+}
+
+.hero-btn-group{
+    -webkit-box-shadow: 0px 0px 0.25vw 0px rgba(0,209,56,0.9);
+    -moz-box-shadow: 0px 0px 0.25vw 0px rgba(0,209,56,0.9);
+    box-shadow: 0px 0px 0.25vw 0px rgba(0,209,56,0.9);
+}
+
+.frequency-display{
+    user-select: none;
+    text-align: center;
+}
+
+.frequency-display span {
+    font-size: 0.75em;
+    color: #F8F9FA;
+}
+
+.range-chart-container{
+    margin-top: 1em;
+}
+
+.square{
+    text-align: center;
+    user-select: none;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin: 1px;
+    padding: 0px !important;
+    width: calc(1.6vh + 1.6vw) !important;
+    height: calc(1.6vh + 1.6vw) !important;
+    font-size: calc(0.625vh + 0.625vw) !important;
+    color: black;
+    text-shadow: #F8F9FA;
+}
