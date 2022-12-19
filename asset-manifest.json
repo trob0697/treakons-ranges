@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/treakons-ranges/static/css/main.70abcafb.chunk.css",
+    "main.js": "/treakons-ranges/static/js/main.9bedb21d.chunk.js",
+    "main.js.map": "/treakons-ranges/static/js/main.9bedb21d.chunk.js.map",
+    "runtime-main.js": "/treakons-ranges/static/js/runtime-main.032a9583.js",
+    "runtime-main.js.map": "/treakons-ranges/static/js/runtime-main.032a9583.js.map",
+    "static/css/2.312a4455.chunk.css": "/treakons-ranges/static/css/2.312a4455.chunk.css",
+    "static/js/2.6f95c9a1.chunk.js": "/treakons-ranges/static/js/2.6f95c9a1.chunk.js",
+    "static/js/2.6f95c9a1.chunk.js.map": "/treakons-ranges/static/js/2.6f95c9a1.chunk.js.map",
+    "index.html": "/treakons-ranges/index.html",
+    "static/css/2.312a4455.chunk.css.map": "/treakons-ranges/static/css/2.312a4455.chunk.css.map",
+    "static/css/main.70abcafb.chunk.css.map": "/treakons-ranges/static/css/main.70abcafb.chunk.css.map",
+    "static/js/2.6f95c9a1.chunk.js.LICENSE.txt": "/treakons-ranges/static/js/2.6f95c9a1.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/treakons-ranges/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/dice.ffd26517.png": "/treakons-ranges/static/media/dice.ffd26517.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.032a9583.js",
+    "static/css/2.312a4455.chunk.css",
+    "static/js/2.6f95c9a1.chunk.js",
+    "static/css/main.70abcafb.chunk.css",
+    "static/js/main.9bedb21d.chunk.js"
+  ]
+}
