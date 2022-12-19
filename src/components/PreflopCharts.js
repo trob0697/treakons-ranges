@@ -43,7 +43,7 @@ function PreflopCharts(){
 
     return(
         <div style={{paddingTop: "5em"}}>
-            <h1 className="header">200z</h1>
+            <h1 className="header">50z</h1>
             <div className="preflop-charts-btns-container">
                 <div className="btn-group-spacing">
                     <ButtonGroup size="sm">
